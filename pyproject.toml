@@ -1,0 +1,8 @@
+[project]
+name = "sint-dream-mcp"
+version = "0.1.0"
+description = "Agent Dreaming — offline consolidation between sessions"
+requires-python = ">=3.10"
+dependencies = [
+    "fastmcp",
+]
