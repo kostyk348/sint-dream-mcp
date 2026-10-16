@@ -1,5 +1,9 @@
 # sint-dream-mcp
 
+[![Release](https://img.shields.io/github/v/release/kostyk348/sint-dream-mcp?sort=semver&color=blue)](https://github.com/kostyk348/sint-dream-mcp/releases)
+[![License](https://img.shields.io/badge/license-Apache-2.0-green)](https://github.com/kostyk348/sint-dream-mcp/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/kostyk348/sint-dream-mcp?branch=main)](https://github.com/kostyk348/sint-dream-mcp/commits/main)
+
 **Agent Dreaming** — offline consolidation between MCP sessions.
 
 Compresses similar memory blocks into generalized knowledge, finds error patterns, and suggests new skills.
